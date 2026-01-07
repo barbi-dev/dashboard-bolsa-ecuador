@@ -17,4 +17,7 @@ Interactive Streamlit dashboard to explore Equities traded on Ecuador’s exchan
 - Detailed table with CSV export.
 - “Methodology” panel with definitions and caveats.
 
-![Dashboard overview](img/shot-1.jpg)
+
+<p align="center">
+  <img src="img/shot-1.jpg" alt="Dashboard overview" width="640">
+</p>
