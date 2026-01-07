@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+plotly
+datasets
+huggingface_hub
+pyarrow
